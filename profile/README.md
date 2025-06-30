@@ -37,7 +37,7 @@
 
 ## 🖼 Preview
 
-![Dehancer Interface in DaVinci Resolve](https://pavelkosenko.files.wordpress.com/2021/11/01.png)
+![Dehancer Interface in DaVinci Resolve](https://cdn-images.dehancer.com/ZqLFox5LeNNTxgZs_grading_guide_cover.jpg?auto=format,compress)
 
 ---
 
